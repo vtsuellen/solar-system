@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+.header {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 150%;
+  display: flex;
+  justify-content: center;
+  background-color:black;
+	color: #FFFFFF; 
+}

@@ -1,8 +1,11 @@
 import React from 'react';
+import './header.css';
 
 function Header() {
   return (
-    <div>Header</div>
+    <header>
+      <h1 className="header">SISTEMA SOLAR</h1>
+    </header>
   );
 }
 
