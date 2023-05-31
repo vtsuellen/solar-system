@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&family=Fira+Code:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&family=Fira+Code:wght@300;400;500;600;700&display=swap') ;
 
 .header {
   color: white;
   display: flex;
-  font-family: Epilogue, sans-serif;
+  font-family: Epilogue , sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 300;
