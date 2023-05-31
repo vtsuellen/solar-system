@@ -1,0 +1,9 @@
+h2 {
+  display: flex;
+  font-family: Epilogue, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  justify-content: center;
+  text-transform: uppercase;
+}
