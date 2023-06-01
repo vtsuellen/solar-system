@@ -1,6 +1,5 @@
 import React from 'react';
 import Title from './Title';
-import './css/Solar.css';
 import planets from '../data/planets';
 import PlanetCard from './PlanetCard';
 
